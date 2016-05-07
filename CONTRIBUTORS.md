@@ -37,6 +37,7 @@ quran android contributors
 * Malaysian by [Ahmad Syazwan](https://github.com/asyazwan).
 * Spanish by [Alexander Salas](https://github.com/alexsalas).
 * Uzbek by [Shuhrat Dehkanov](https://github.com/ozbek").
+* Dutch by [Abdelouali Benkheil](https://github.com/abdelouali").
 
 
 ### and many more
