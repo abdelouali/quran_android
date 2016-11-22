@@ -7,8 +7,8 @@ Yasser Baghouli (zaterdag@outlook.com)
     <string name="app_name">Koran</string>
     <string name="downloadPrompt_title">Download vereiste bestanden?</string>
     <string name="downloadPrompt">Om Koran Android goed te laten werken,
-         moeten we een aantal bestanden downloaden. Als u dit niet doet, werkt de app
-         mogelijk niet betrouwbaar en zal een internetverbinding vereist zijn voor het lezen.
+         moeten wij een aantal bestanden downloaden. Als u dit niet doet, werkt de applicatie
+         mogelijk niet betrouwbaar en zal een internetverbinding vereist zijn voor het lezen van Koran.
          Wilt u de benodigde bestanden nu downloaden?
     </string>
     <string name="downloadTabletPrompt">We hebben onlangs betere afbeeldingen toegevoegd voor Tablets. Wil je deze afbeeldingen nu toevoegen?</string>
@@ -20,7 +20,7 @@ Yasser Baghouli (zaterdag@outlook.com)
     <string name="downloading_message">Wacht tot de bestanden zijn gedownload (CV ondersteund).</string>
     <string name="extracting_title">Verwerken&#8230;</string>
     <string name="menu_about">Over Ons</string>
-    <string name="menu_other_apps">Andere apps</string>
+    <string name="menu_other_apps">Andere App's</string>
     <string name="menu_settings">Instellingen</string>
     <string name="menu_jump_last_page">Laatste Pagina</string>
   <string name="menu_bookmarks">Bladwijzers</string>
@@ -35,8 +35,8 @@ Yasser Baghouli (zaterdag@outlook.com)
     <string name="menu_help">Ondersteuning</string>
     <string name="menu_search">Zoek</string>
     <string name="menu_get_translations">Verkrijg Vertalingen</string>
-    <string name="menu_jump">Ga</string>
-    <string name="gotoPage">Ga naar pagina</string>
+    <string name="menu_jump">Navigeer</string>
+    <string name="gotoPage">Navigeer naar pagina</string>
     <string name="cancel">Annuleer</string>
 
     <!-- about -->
@@ -233,7 +233,7 @@ Voor de vertaalde pagina\'s (/voor vertalingen): Ga naar instellingen en wijzig 
     <string name="download_progress">%1$s Gedowload van %2$s</string>
     <string name="download_sura_progress">%1$s Gedowload van %2$s van soera %3$d</string>
     <string name="download_sura_ayah_progress">Downloaden van Soera %1$d ayah %2$d</string>
-    <string name="process_progress">Processing file %1$d / %2$d</string>
+    <string name="process_progress">Verwerken van bestand %1$d / %2$d</string>
     <string name="download_retry">Probeer opnieuw</string>
     <string name="download_cancel">Annuleren</string>
     <string name="download_extra_data">We moeten één of twee kleine bestanden downloaden om het delen en vertaling te ondersteunen. Download nu?</string>
