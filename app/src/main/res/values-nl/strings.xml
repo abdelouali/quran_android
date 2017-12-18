@@ -7,15 +7,15 @@ Yasser Baghouli (zaterdag@outlook.com)
   <string name="app_name">Koran</string>
   <string name="downloadPrompt_title">Download vereiste bestanden?</string>
   <string name="downloadPrompt">Om Koran Android goed te laten werken,
-         moeten we een aantal bestanden downloaden. Als u dit niet doet, werkt de app
-         mogelijk niet betrouwbaar en zal een internetverbinding vereist zijn voor het lezen.
-         Wilt u de benodigde bestanden nu downloaden?
+         moeten wij een aantal vereiste bestanden downloaden. Als u dit niet doet, werkt de app
+         mogelijk niet betrouwbaar en zal een internetverbinding vereist zijn voor het lezen van de Heilige Koran.
+         Wilt u de vereiste bestanden nu downloaden?
     </string>
-  <string name="downloadTabletPrompt">We hebben onlangs betere afbeeldingen toegevoegd voor Tablets. Wil je deze afbeeldingen nu toevoegen?</string>
+  <string name="downloadTabletPrompt">Wij hebben onlangs betere afbeeldingen toegevoegd voor Tablets. Wil je deze afbeeldingen nu downloaden?</string>
   <string name="downloadImportantPrompt">Er is een kleine maar belangrijke update voor Koran afbeeldingen die je op je apparaat hebt staat. Wil je deze patch nu downloaden?
     </string>
   <string name="downloadPrompt_ok">Ja</string>
-  <string name="downloadPrompt_no">Nee</string>
+  <string name="downloadPrompt_no">Neen</string>
   <string name="downloading_title">Downloaden&#8230;</string>
   <string name="downloading_message">Wacht tot de bestanden zijn gedownload (CV ondersteund).</string>
   <string name="extracting_title">Verwerken&#8230;</string>
@@ -57,7 +57,7 @@ Yasser Baghouli (zaterdag@outlook.com)
   <string name="about_contributors_summary">Een lijst van personen die hebben bijgedragen aan de ontwikkeling van Koran voor Android</string>
 
   <!-- help -->
-  <string name="help_title">Veel Gestelde Vragen</string>
+  <string name="help_title">Veelgestelde Vragen</string>
   <string name="help">
         &lt;b>Hoe kan ik de audio afspelen?&lt;/b>
         &lt;br/>Open even welke Koran pagina. Tik op het scherm eenmaal. Aan de onderkant, zult u
@@ -97,7 +97,7 @@ Voor de vertaalde pagina\'s (/voor vertalingen): Ga naar instellingen en wijzig 
   </plurals>
 
   <!-- m permissions stuff -->
-  <string name="storage_permission_rationale">Koran wil uw toestemming om zijn gegevens op te slaan op
+  <string name="storage_permission_rationale">Koran wil uw toestemming om gegevens op te slaan op
          uw externe opslag. Koran zal werken zonder deze toestemming, maar als je de app deinstalleerd zullen alle gedownloade pagina\'s, audio en gegevens verwijderd worden. Verleen je Koran toestemming?
 </string>
   <string name="storage_permission_please_restart">Gelieve de app opnieuw opstarten om de veranderingen uit te voeren.</string>
